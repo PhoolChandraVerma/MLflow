@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/3d75f5825f774e5c86f701ab36f07d67/artifacts
+end_time: 1710674420910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d75f5825f774e5c86f701ab36f07d67
+run_name: ''
+run_uuid: 3d75f5825f774e5c86f701ab36f07d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710674414568
+status: 3
+tags: []
+user_id: phool

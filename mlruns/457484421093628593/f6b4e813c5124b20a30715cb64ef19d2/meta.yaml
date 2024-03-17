@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/phool.verma/Downloads/MLflow/mlruns/457484421093628593/f6b4e813c5124b20a30715cb64ef19d2/artifacts
+end_time: 1710684196074
+entry_point_name: ''
+experiment_id: '457484421093628593'
+lifecycle_stage: active
+run_id: f6b4e813c5124b20a30715cb64ef19d2
+run_name: able-whale-888
+run_uuid: f6b4e813c5124b20a30715cb64ef19d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710684173488
+status: 3
+tags: []
+user_id: phool.verma

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/512363133253209658/abfcc062f8ea4d80845991d4a7dfd1d2/artifacts
+end_time: 1710687587933
+entry_point_name: ''
+experiment_id: '512363133253209658'
+lifecycle_stage: active
+run_id: abfcc062f8ea4d80845991d4a7dfd1d2
+run_name: funny-ox-131
+run_uuid: abfcc062f8ea4d80845991d4a7dfd1d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710687550026
+status: 3
+tags: []
+user_id: phool.verma

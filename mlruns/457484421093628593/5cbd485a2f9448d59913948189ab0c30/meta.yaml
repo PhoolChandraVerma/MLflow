@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/phool.verma/Downloads/MLflow/mlruns/457484421093628593/5cbd485a2f9448d59913948189ab0c30/artifacts
+end_time: 1710683723984
+entry_point_name: ''
+experiment_id: '457484421093628593'
+lifecycle_stage: active
+run_id: 5cbd485a2f9448d59913948189ab0c30
+run_name: luminous-quail-835
+run_uuid: 5cbd485a2f9448d59913948189ab0c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710683693734
+status: 3
+tags: []
+user_id: phool.verma

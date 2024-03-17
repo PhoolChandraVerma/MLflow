@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/512363133253209658/a9bf65d3627c4e5f9c128573a4ac2875/artifacts
+end_time: 1710687694397
+entry_point_name: ''
+experiment_id: '512363133253209658'
+lifecycle_stage: active
+run_id: a9bf65d3627c4e5f9c128573a4ac2875
+run_name: rogue-dove-331
+run_uuid: a9bf65d3627c4e5f9c128573a4ac2875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710687655764
+status: 3
+tags: []
+user_id: phool.verma

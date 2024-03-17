@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/512363133253209658/e8ec0c4b925c4415bd3dcf06bdb272de/artifacts
+deleted_time: 1710671420557
+end_time: 1710687603557
+entry_point_name: ''
+experiment_id: '512363133253209658'
+lifecycle_stage: deleted
+run_id: e8ec0c4b925c4415bd3dcf06bdb272de
+run_name: rebellious-frog-744
+run_uuid: e8ec0c4b925c4415bd3dcf06bdb272de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710687590157
+status: 4
+tags: []
+user_id: phool.verma
